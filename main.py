@@ -4,3 +4,5 @@ def sumBetween(x, y):
         chunkyref = chunkyref + i
      
     return chunkyref 
+
+print (sumBetween(1, 2))
